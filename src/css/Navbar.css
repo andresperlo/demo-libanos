@@ -1,0 +1,57 @@
+
+.img-carousel{
+    width: 100%;
+    height: 100vh;
+}
+
+.img-logo{
+    position: absolute;
+    z-index: 100;
+    width: 10%;
+    left: 3%;
+    top: 3%;
+}
+
+.divh1{
+    position: absolute;
+    z-index: 100;
+    top: 3%;
+    color: white;
+}
+
+.div-Form{
+    position: absolute;
+    z-index: 100;
+    margin-bottom: 10px;
+    border-radius: 1em;
+    border: whitesmoke 3px solid;
+    padding: 70px;
+    box-shadow: inset 0 0 150px white;
+}
+
+.div-Carousel{
+    z-index: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 600px){
+    .img-carousel{
+        height: 75vh;
+      
+    }
+    .div-Form{
+        margin-bottom: 10px;
+        border-radius: 1em;
+        border: whitesmoke 3px solid;
+        padding: 20px;
+        box-shadow: inset 0 0 150px white;
+    }
+    .div-Carousel{
+        display: flex;
+        justify-items: center;
+        align-items: flex-end;
+
+    }
+}

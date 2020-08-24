@@ -1,0 +1,30 @@
+.icons{
+    font-size: 3rem;
+}
+.classFooter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.classFooter h3{
+    margin-left: 2em;
+}
+.div-Iframe{
+    margin-right: 2em;
+}
+.div-Redes a i{
+   color: white;
+}
+@media (max-width: 600px){
+  .classFooter{
+      display: block;
+     text-align: center;
+  }
+  .classFooter h3{
+    margin-left: 0;
+}
+.div-Iframe{
+    margin-right: 0;
+}
+
+}
