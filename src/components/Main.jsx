@@ -19,35 +19,35 @@ function Main() {
                 <div className="card-columns">
                     <div>
                         <div>
-                            <img src={anana} className='div-Img' alt="" />
+                            <img src={anana} className='div-Img border border-dark' alt="" />
                         </div>
                         <div>
-                            <img src={arandanos} className='div-Img' alt="" />
+                            <img src={arandanos} className='div-Img border border-dark' alt="" />
                         </div>
                         <div>
-                            <img src={banana} className='div-Img' alt="" />
-                        </div>
-                    </div>
-                    <div>
-                        <div>
-                            <img src={frutilla} className='div-Img' alt="" />
-                        </div>
-                        <div>
-                            <img src={higos} className='div-Img' alt="" />
-                        </div>
-                        <div>
-                            <img src={limon} className='div-Img' alt="" />
+                            <img src={banana} className='div-Img border border-dark' alt="" />
                         </div>
                     </div>
                     <div>
                         <div>
-                            <img src={moras} className='div-Img' alt="" />
+                            <img src={frutilla} className='div-Img border border-dark' alt="" />
                         </div>
                         <div>
-                            <img src={naranja} className='div-Img' alt="" />
+                            <img src={higos} className='div-Img border border-dark' alt="" />
                         </div>
                         <div>
-                            <img src={melon} className='div-Img' alt="" />
+                            <img src={limon} className='div-Img border border-dark' alt="" />
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <img src={moras} className='div-Img border border-dark' alt="" />
+                        </div>
+                        <div>
+                            <img src={naranja} className='div-Img border border-dark' alt="" />
+                        </div>
+                        <div>
+                            <img src={melon} className='div-Img border border-dark' alt="" />
                         </div>
                     </div>
                 </div>
