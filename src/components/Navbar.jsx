@@ -12,14 +12,17 @@ function Navbar() {
             <div>
                 <div id="carouselExampleFade" className="div-Carousel carousel slide carousel-fade" data-ride="carousel" data-interval="3000" hover='false' wrap='true'>
                     <h1 className='text-center divh1'>El Libano Producciones</h1>
-                    <div className='div-Form'>
-                        <div><h5 className='text-center py-3 NavH5'>Accede al Bono de Descuento</h5></div>
+                    <div className='div-Form col-12 col-md-6 col-lg-6'>
+                        <div><h5 className='text-center NavH5 pb-3'>Completa El Formulario y Accede a un Beneficio Exclusivo Para Vos!!!</h5></div>
                         <form>
                             <div className="form-group">
-                                <input type="email" maxLength='40' className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder='Ingrese su Email' />
+                                <input type="text" maxLength='40' className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder='Ingresar Nombre y Apellido' />
                             </div>
                             <div className="form-group">
-                                <input type="text" maxLength='20' className="form-control" id="exampleInputPassword1" placeholder='Ingrese su Celular' />
+                                <input type="email" maxLength='40' className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder='Ingresar Correo Electronico' />
+                            </div>
+                            <div className="form-group">
+                                <input type="text" maxLength='20' className="form-control" id="exampleInputPassword1" placeholder='Ingresar Numero de Celular' />
                             </div>
                             <button type="submit" className="btn btn-primary w-100">Acceder al Descuento</button>
                         </form>
