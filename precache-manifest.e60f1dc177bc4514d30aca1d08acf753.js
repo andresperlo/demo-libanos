@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9054ca1345a3fdaf8aa66a240beb59df",
+    "revision": "ae65b85e8fd2c093b024227137950a7c",
     "url": "/demo-libanos/index.html"
   },
   {
-    "revision": "250c91d58db4957a2e1d",
-    "url": "/demo-libanos/static/css/main.40c32791.chunk.css"
+    "revision": "773dfdf108ca7250d038",
+    "url": "/demo-libanos/static/css/main.731ecd27.chunk.css"
   },
   {
-    "revision": "7d4f8c146c039a8bc23c",
-    "url": "/demo-libanos/static/js/2.75d877c0.chunk.js"
+    "revision": "8a13f6c4e6253cebf9a5",
+    "url": "/demo-libanos/static/js/2.5bd031ec.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/demo-libanos/static/js/2.75d877c0.chunk.js.LICENSE.txt"
+    "url": "/demo-libanos/static/js/2.5bd031ec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "250c91d58db4957a2e1d",
-    "url": "/demo-libanos/static/js/main.8900ab83.chunk.js"
+    "revision": "773dfdf108ca7250d038",
+    "url": "/demo-libanos/static/js/main.1049950c.chunk.js"
   },
   {
     "revision": "279ea2638bd619bcfcbf",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "637a1b99b5365c9a7b56004da1a44b7b",
     "url": "/demo-libanos/static/media/limon.637a1b99.jpeg"
+  },
+  {
+    "revision": "e37eee6be4c08afd36cbac708667d7d6",
+    "url": "/demo-libanos/static/media/melon.e37eee6b.jpeg"
   },
   {
     "revision": "3e8a7f0e6f66f959da8b7c97cd2f1074",
