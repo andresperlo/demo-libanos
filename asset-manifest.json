@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/demo-libanos/static/css/main.e5ac0cd4.chunk.css",
-    "main.js": "/demo-libanos/static/js/main.169107fe.chunk.js",
-    "main.js.map": "/demo-libanos/static/js/main.169107fe.chunk.js.map",
+    "main.css": "/demo-libanos/static/css/main.a8122014.chunk.css",
+    "main.js": "/demo-libanos/static/js/main.12a0b298.chunk.js",
+    "main.js.map": "/demo-libanos/static/js/main.12a0b298.chunk.js.map",
     "runtime-main.js": "/demo-libanos/static/js/runtime-main.f1a0232c.js",
     "runtime-main.js.map": "/demo-libanos/static/js/runtime-main.f1a0232c.js.map",
     "static/js/2.5bd031ec.chunk.js": "/demo-libanos/static/js/2.5bd031ec.chunk.js",
     "static/js/2.5bd031ec.chunk.js.map": "/demo-libanos/static/js/2.5bd031ec.chunk.js.map",
     "index.html": "/demo-libanos/index.html",
-    "precache-manifest.5257a7d8c255df57512a63ce0ff584f2.js": "/demo-libanos/precache-manifest.5257a7d8c255df57512a63ce0ff584f2.js",
+    "precache-manifest.f0ab3182f228d4ccc7e0f235a4e3958b.js": "/demo-libanos/precache-manifest.f0ab3182f228d4ccc7e0f235a4e3958b.js",
     "service-worker.js": "/demo-libanos/service-worker.js",
-    "static/css/main.e5ac0cd4.chunk.css.map": "/demo-libanos/static/css/main.e5ac0cd4.chunk.css.map",
+    "static/css/main.a8122014.chunk.css.map": "/demo-libanos/static/css/main.a8122014.chunk.css.map",
     "static/js/2.5bd031ec.chunk.js.LICENSE.txt": "/demo-libanos/static/js/2.5bd031ec.chunk.js.LICENSE.txt",
     "static/media/anana.jpeg": "/demo-libanos/static/media/anana.01fe7f29.jpeg",
     "static/media/arandanos.jpeg": "/demo-libanos/static/media/arandanos.85f1d070.jpeg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.f1a0232c.js",
     "static/js/2.5bd031ec.chunk.js",
-    "static/css/main.e5ac0cd4.chunk.css",
-    "static/js/main.169107fe.chunk.js"
+    "static/css/main.a8122014.chunk.css",
+    "static/js/main.12a0b298.chunk.js"
   ]
 }
