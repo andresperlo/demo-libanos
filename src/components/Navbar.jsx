@@ -13,7 +13,7 @@ function Navbar() {
                 <div id="carouselExampleFade" className="div-Carousel carousel slide carousel-fade" data-ride="carousel" data-interval="3000" hover='false' wrap='true'>
                     <h1 className='text-center divh1'>El Libano Producciones</h1>
                     <div className='div-Form'>
-                        <div><h5 className='text-center py-3'>Accede al Bono de Descuento</h5></div>
+                        <div><h5 className='text-center py-3 NavH5'>Accede al Bono de Descuento</h5></div>
                         <form>
                             <div className="form-group">
                                 <input type="email" maxLength='40' className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder='Ingrese su Email' />

@@ -11,9 +11,15 @@
 }
 .div-Iframe{
     margin-right: 2em;
-}
+} 
 .div-Redes a i{
    color: white;
+}
+.FooterH3{
+    font-family: 'Lobster', cursive;
+}
+.FooterH4{
+    font-family: 'Schoolbell', cursive;
 }
 @media (max-width: 600px){
   .classFooter{

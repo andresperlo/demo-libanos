@@ -8,12 +8,14 @@ import higos from '../img/higos.jpeg'
 import limon from '../img/limon.jpeg'
 import moras from '../img/moras.jpeg'
 import naranja from '../img/naranja.jpeg'
+import melon from '../img/melon.jpeg'
+
 
 function Main() {
     return (
             <div className="container">
-                <div className='my-5 text-center d-none d-md-block d-lg-block'><h1>Nuestros Productos</h1></div>
-                <div className='my-5 text-center d-md-none d-lg-none'><h3>Nuestros Productos</h3></div>
+                <div className='my-5 text-center d-none d-md-block d-lg-block div-h1'><h1>Nuestros Productos</h1></div>
+                <div className='my-5 text-center d-md-none d-lg-none div-h3'><h3>Nuestros Productos</h3></div>
                 <div className="card-columns">
                     <div>
                         <div>
@@ -45,7 +47,7 @@ function Main() {
                             <img src={naranja} className='div-Img' alt="" />
                         </div>
                         <div>
-                            <img src={anana} className='div-Img' alt="" />
+                            <img src={melon} className='div-Img' alt="" />
                         </div>
                     </div>
                 </div>

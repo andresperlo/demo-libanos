@@ -3,9 +3,9 @@ import '../css/Footer.css'
 function Footer() {
   return (
     <footer className='classFooter mt-5 py-3 bg-dark text-white'>
-      <h3 className=''>El Libano Producciones</h3>
+      <h3 className='FooterH3'>El Libano Producciones</h3>
       <div className='div-Redes'>
-        <h4 className='pt-2 text-center'>Siguenos en las redes</h4>
+        <h4 className='pt-2 text-center FooterH4'>Siguenos en las redes</h4>
         <div className='d-flex justify-content-center'>
           <div className='icons'>
            <a href="https://www.facebook.com/El-L%C3%ADbano-productores-107453194357394/?__tn__=%2Cd%2CP-R&eid=ARALKXY42YSHssmte3ei1q3DD3cZtx-RxGn5oBOxQU36EnlDP3zYQHmooskUHz4JBdRGILt4jaCc3QrO" target='_blank'> <i className="fab fa-facebook"></i></a> 

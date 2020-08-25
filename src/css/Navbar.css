@@ -13,6 +13,7 @@
 }
 
 .divh1{
+    font-family: 'Lobster', cursive;
     position: absolute;
     z-index: 100;
     top: 3%;
@@ -36,6 +37,12 @@
     align-items: center;
 }
 
+.NavH5{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 2.5rem;
+    color: black;
+}
+
 @media (max-width: 600px){
     .img-carousel{
         height: 75vh;
@@ -46,12 +53,17 @@
         border-radius: 1em;
         border: whitesmoke 3px solid;
         padding: 20px;
-        box-shadow: inset 0 0 150px white;
+        box-shadow: inset 0 0 200px white;
     }
     .div-Carousel{
         display: flex;
         justify-items: center;
         align-items: flex-end;
 
+    }
+    .NavH5{
+        font-family: 'Fredericka the Great', cursive;
+        font-size: 1.2rem;
+        color: black;
     }
 }

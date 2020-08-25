@@ -10,3 +10,10 @@
    height: 50vh;
    margin-bottom: 20px;
 }
+.div-h1 h1{
+   font-family: 'Aclonica', sans-serif;
+   font-size: 4rem;
+}
+.div-h3 h3{
+   font-family: 'Aclonica', sans-serif;
+}
